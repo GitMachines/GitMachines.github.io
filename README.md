@@ -1,4 +1,4 @@
-GitMachines.github.io
+gitmachines.github.io
 =====================
 
-GitMachines web site
+GitMachines web site 2
